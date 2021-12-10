@@ -61,6 +61,8 @@
   font-family: "BubbleGum";
   z-index: 1;
   position: relative; }
+  #about .image-gallery-image {
+    border-radius: 2vw !important; }
   #about .intro-digits {
     font-family: "Superfats"; }
   #about .intro-text {
